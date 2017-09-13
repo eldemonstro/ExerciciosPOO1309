@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package exercicio29;
 
 import java.io.BufferedReader;
@@ -19,7 +14,10 @@ public class Main {
     
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        System.out.println("Entre com um numero para ser retornado um mês: ");        
+        System.out.println(" 29. Faça um algoritmo que receba o número do\n" +
+            "mês e mostre o mês correspondente. Valide\n" +
+            "mês inválido.\n" +
+            "Digite um numero: ");        
         try{
             int i = Integer.parseInt(br.readLine());
             String mes;
