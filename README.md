@@ -4,17 +4,17 @@
 #### Fatec Zona Sul
 
 ## Alunos:
-> Fabricio Bezerra
+> Fabricio Bezerra  
 > Exercicios: 29 e 69
 
-> André Luiz
+> André Luiz  
 > Exercicios: 46
 
-> Nicolas Gleiser
-> Exercicios: 23
+> Nicolas Gleiser  
+> Exercicios: 23 
 
-> Christian Lopes
+> Christian Lopes  
 > Exercicios: 26 e 50
 
-> Gian Moura
+> Gian Moura  
 > Exercicios: 52

@@ -18,7 +18,8 @@ public class Main {
                 case 1:
                     System.out.println("Entre com um numero inteiro.");
                     num = sc.nextInt();
-                    System.out.println(num % 2 == 0 ? "É par":"É impar");
+                    System.out.print(num % 2 == 0 ? "É par":"É impar");
+                    System.out.println(num >= 0 ? " e positivo":" e negativo");
                     break;
                 case 2:
                     System.out.println("Encerrando!");
